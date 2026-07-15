@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-kroger",
+  "version": "0.1.0",
+  "description": "Kroger MCP — grocery products, prices, and store locations (developer.kroger.com)",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "kroger"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-kroger"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
