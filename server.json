@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/kroger",
   "title": "Kroger",
   "description": "Kroger MCP — grocery products, prices, and store locations (developer.kroger.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/kroger",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-kroger",
