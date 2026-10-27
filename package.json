@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kroger",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Kroger MCP — grocery products, prices, and store locations (developer.kroger.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f83b64a02b104ca242ad00b2a0fe3142e310796615e01ee1580f17460b433b4b",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-2539c2a3021ca7a33f9ba4135fea1557bae152ce42da22ee902663b97d36887a",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
